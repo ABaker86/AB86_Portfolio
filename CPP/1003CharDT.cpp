@@ -8,6 +8,7 @@ using namespace std;
 int main ()
 {
     char c;
+    wchar_t d;
     // prints one letter at a time
     c = 'X';
     cout << c;
@@ -19,8 +20,8 @@ int main ()
     cout << c;
     c = 'e';
     cout << c;
-    c = 'r';
-    cout << c;
+    d  = 'r';
+   std::wout << d;
     cout << " \n";
 
 

@@ -5,9 +5,9 @@ The devleopment of the applications are used to increase experience in
 various programming languages. 
 
 CPP
-===
+---
 The cpp directory contains small sample applications developed in C/C++. 
 
 NoCream
-=======
+-------
 The NoCream folder contains sample and project applications developed in Java.

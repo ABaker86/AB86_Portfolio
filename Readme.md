@@ -6,8 +6,8 @@ various programming languages.
 
 CPP
 ===
-The cpp file contains small sample applications developed in C/C++. 
+The cpp directory contains small sample applications developed in C/C++. 
 
 NoCream
 =======
-The NoCream folder contains applications developed in Java.
+The NoCream folder contains sample and project applications developed in Java.

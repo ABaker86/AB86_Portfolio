@@ -15,3 +15,8 @@ Animal Info is a simple swing application created as an AIU assignment for displ
 *  bear       Subclass of Animal
 
 Each subclass extends the Animal class and overrides the ```displayInfo()``` method. 
+
+Loop
+----
+
+Loop is a console program that prints to the console a ITSD323 assignment information, a multiplication table, and a reference section similar to that of what is expected in APA formatting. 

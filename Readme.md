@@ -10,4 +10,8 @@ The cpp directory contains small sample applications developed in C/C++.
 
 NoCream
 -------
-The NoCream folder contains sample and project applications developed in Java.
+The NoCream directory contains sample and project applications developed in Java.
+
+WindBlocks
+----------
+The WinBlocks directory contains two Windows PowerShell scripts developed as solutions to academic assignments. 

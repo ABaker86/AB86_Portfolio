@@ -12,6 +12,6 @@ NoCream
 -------
 The NoCream directory contains sample and project applications developed in Java.
 
-WindBlocks
+WinBlocks
 ----------
 The WinBlocks directory contains two Windows PowerShell scripts developed as solutions to academic assignments. 
